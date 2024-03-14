@@ -20,7 +20,7 @@ Opening the application presents the user with a landing page with a link to a n
 
 ## Credits
 
-N/A
+Base code provided by UTA/EdX bootcamp.
 
 ## License
 
